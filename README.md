@@ -14,6 +14,13 @@ Create a responsive overview of the available offers
 On load show the currency of the hotels in the offer card, with the following properties: name of the hotel, image, short description, “price per night, starting from” and a cta
 When a different currency is selected, show the price in the offer card in the chosen currency
 
+
+### Setup
+  npm install
+  nuxi dev
+
+ga naar http://localhost:3001/  
+
 ### Uitleg
 Ik heb een aantal aannames gedaan:
 - De prijzen in de offers zijn voor de kamers per nacht, in de valuta van het hotel
