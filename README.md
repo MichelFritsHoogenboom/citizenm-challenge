@@ -16,8 +16,9 @@ When a different currency is selected, show the price in the offer card in the c
 
 
 ### Setup
-  npm install
-  nuxi dev
+
+    npm install
+    nuxi dev
 
 ga naar http://localhost:3001/  
 
