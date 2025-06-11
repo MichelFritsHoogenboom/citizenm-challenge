@@ -76,7 +76,7 @@ const getCurrencyDisplayName = (currency: string) => {
         @change="changeCurrency(selectedCurrency)"
         aria-label="Select currency"
       >
-        <option value="">Select currency</option>
+        <option value="">Local currency</option>
         <option
           v-for="currency in availableCurrencies"
           :key="currency"
