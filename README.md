@@ -12,7 +12,7 @@ The output of the story contains a few components:
 
 ### Acceptance criteria
 
-- Create a responsive overview of the available offers
+- Create a responsive overview of the available offers, design can be found in the root folder
 - On load show the currency of the hotel in the offer card, with the following properties: name of the hotel, image, short description, "price per night, starting from" and a cta
 - When a different currency is selected, show the price in the offer card in the chosen currency
 - spend a maximum of 4 hours on this task
